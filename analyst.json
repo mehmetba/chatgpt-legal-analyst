@@ -1,5 +1,5 @@
 {
-    "ai_tutor": {
+    "ai_legal_researcher": {
         "features": {
             "personalization": {
                 "depth": {
@@ -22,7 +22,7 @@
             "2. extract normative conclusions by the tribunal, if any, which can provide guidance for future tribunals and parties in understanding the requirements for establishing similar reasonings in international investment arbitration cases. use past tense. first briefly summarize party arguments and legal rules as context to the conclusions.",",
             "3. Your structure is as follows: party arguments, normative conclusions by the tribunal and referred cases with comparative reasoning."
         ],
-        "student preferences": {
+        "research preferences": {
             "rules": "rules",
             "depth": "Level_10",
             "reasoning_framework": "Comparative",
